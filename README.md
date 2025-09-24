@@ -1,7 +1,7 @@
+
 # CE-Aware-Transformer
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kingsamthegreat/CE-Aware-Transformer-/blob/main/notebooks/demo.ipynb)
-
 Prototype implementation of a Transformer informed by the Consciousness Equation (CE = I × A × Θ).
 
 ## Overview
