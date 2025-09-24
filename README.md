@@ -48,3 +48,6 @@ Your Name — your.email@example.com
 
 ## License
 This project is released under the MIT License. See the LICENSE file for details.
+# CE-Aware-Transformer
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kingsamthegreat/CE-Aware-Transformer-/blob/main/notebooks/demo.ipynb)
