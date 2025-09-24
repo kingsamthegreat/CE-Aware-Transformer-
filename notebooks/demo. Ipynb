@@ -1,0 +1,49 @@
+{
+ "cells": [
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "# CE Simulation Demo\n",
+    "\n",
+    "This is a draft notebook for the **CE-Aware Transformer** experiments.\n",
+    "\n",
+    "The purpose of this notebook is to:\n",
+    "- Provide a starting point for simulating the Consciousness Equation (CE = I × A × Θ).\n",
+    "- Compare CE-informed dynamics with Integrated Information Theory (IIT).\n",
+    "- Serve as a placeholder for code, figures, and future results.\n"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "# Placeholder: CE Tensor Example\n",
+    "import numpy as np\n",
+    "\n",
+    "# Define I, A, Θ as random scalars for now\n",
+    "I = np.random.rand()\n",
+    "A = np.random.rand()\n",
+    "Theta = np.random.rand()\n",
+    "\n",
+    "CE = I * A * Theta\n",
+    "print(\"Consciousness Equation value (toy example):\", CE)"
+   ]
+  }
+ ],
+ "metadata": {
+  "kernelspec": {
+   "display_name": "Python 3",
+   "language": "python",
+   "name": "python3"
+  },
+  "language_info": {
+   "name": "python",
+   "version": "3.10"
+  }
+ },
+ "nbformat": 4,
+ "nbformat_minor": 2
+}
