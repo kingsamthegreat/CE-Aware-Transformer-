@@ -46,7 +46,7 @@ CE-Aware-Transformer/
 ```
 
 ## Contact
-Your Name — your.email@example.com
+Obasi Ikechukwu Samuel — thegreatertoe@gmail.com
 
 ## License
 This project is released under the MIT License. See the LICENSE file for details.
