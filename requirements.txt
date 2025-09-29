@@ -1,4 +1,6 @@
 torch
+torchvision
+transformers
 numpy
 matplotlib
 jupyter
